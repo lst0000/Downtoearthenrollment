@@ -1,0 +1,35 @@
+first_name,last_name,middle_name,birthdate,primary_first_name,primary_last_name,primary_phone,secondary_first_name,secondary_last_name,secondary_phone,allergies,photo_consent,semester,group,session
+Aenor,Torres,Ruth,2018-09-09,Miriam,Torres,2085690384,Daniel,Torres,2087161335,N/A,Allowed,Spring 2026,Flying Squirrels,Morning
+Caleb,Cooker,,2018-01-14,Brianna,Cooker,6197082376,Todd,Cooker,6195735640,None,Allowed,Spring 2026,Flying Squirrels,Morning
+Gustav,Thomson,,2021-05-26,SMAY,THOMSON,2176498665,ADAM,THOMSON,8015129353,na,Allowed,Spring 2026,Flying Squirrels,Morning
+James,Rutz,Joseph,2020-11-11,Erica,Adelman,9196720828,Jon,Rutz,5174426489,N/a,Face not allowed,Spring 2026,Flying Squirrels,Morning
+Joanna,Sheikh,,2020-09-28,Lisa,Pabst,7138063489,Selim,Sheikh,8324629292,Pork,Face not allowed,Spring 2026,Flying Squirrels,Morning
+Lucas,Watkins,Stephen,2018-08-28,Lisa,Watkins,8018597148,Alexander,Watkins,8015029562,NA,Allowed,Spring 2026,Flying Squirrels,Morning
+Adele,Harker,Elizabeth,2013-06-19,Holly,Harker,9899808363,Matthew,Harker,8016611980,"Allergic to exercise (but only randomly. She will have Benadryl to take, if needed)",Allowed,Spring 2026,Gray Wolves,Morning
+Annelise,Norris,Rose,2014-01-23,Tatum,Norris,8018679492,Ben,Norris,8015545267,Na,Allowed,Spring 2026,Gray Wolves,Morning
+Ella,Spencer,,2012-03-20,Jessica,Spencer,8017351155,Victor,Spencer,8017228397,N/A,Allowed,Spring 2026,Gray Wolves,Morning
+Marissa,Dalyai,Joan,2010-07-10,Sylvia,Dalyai,8018348158,Austin,Dalyai,8012653664,N/A,Allowed,Spring 2026,Gray Wolves,Morning
+Micah,Norris,Brett,2012-05-21,Tatum,Norris,8018679492,Ben,Norris,8015545267,Na,Allowed,Spring 2026,Gray Wolves,Morning
+Phoenix,Reinwand,Serenity,2012-07-07,Stevie,Reinwand,8018912402,Tyler,Reinwand,8018912415,N/A,Allowed,Spring 2026,Gray Wolves,Morning
+Skyler,Todoran,Tristan,2012-06-12,Rhoda,Todoran,3105601284,Michael,Todoran,7022370785,N/A,Allowed,Spring 2026,Gray Wolves,Morning
+Esther,Torres,Adaline,2015-11-03,Miriam,Torres,2085690384,Daniel,Torres,2087161335,Shellfish,Allowed,Spring 2026,Red Foxes,Morning
+Jack,Tripp,'Sammy',2016-08-19,Laura,Tripp,8018919501,Jack,Tripp,8018914510,Seasonal Allergies,Allowed,Spring 2026,Red Foxes,Morning
+Marcus,Watkins,Alexander,2015-10-02,Lisa,Watkins,8018597148,Alexander,Watkins,8015029562,N/a,Allowed,Spring 2026,Red Foxes,Morning
+Mila,Dunn,Ryen,2017-08-14,Jenna,Dunn,8016713753,Josh,Dunn,8016418090,None,Face not allowed,Spring 2026,Red Foxes,Morning
+Bohden,Grazulis,North,2020-07-29,Angie,Grazulis,8018358355,Gedas,Grazulis,8016993328,None that we are aware of,Allowed,Spring 2026,Flying Squirrels,Afternoon
+Bronson,Gourley,Deeken,2020-07-31,Alyssa,Gourley,7855349858,,,,none,Allowed,Spring 2026,Flying Squirrels,Afternoon
+Grahm,Larsen,Kay,2019-11-28,Kira,Larsen,4802292148,Brett,Larsen,6026862968,N/A,Face not allowed,Spring 2026,Flying Squirrels,Afternoon
+Junie,Zemke,Lou,2018-02-04,Allyssa,Zemke,8016716620,Noah,Zemke,3852273146,Gluten Dairy,Face not allowed,Spring 2026,Flying Squirrels,Afternoon
+Kinney,Phillips,,2019-07-07,Kaitlyn,Phillips,8018361895,Jordan,Phillips,8016315383,N/A,Face not allowed,Spring 2026,Flying Squirrels,Afternoon
+Larston,Cerynik,Craig,2020-12-03,Tori,Cerynik,4805491290,William,Cerynik,4804792500,N/a,Allowed,Spring 2026,Flying Squirrels,Afternoon
+Lena,Block,Marie,2020-03-05,Bri,Block,3853157888,Dallas,Block,8015806469,None,Face not allowed,Spring 2026,Flying Squirrels,Afternoon
+Molly Rose,Sadler,,2018-04-18,Rebekah,Sadler,8013007454,,,,N/a,Allowed,Spring 2026,Flying Squirrels,Afternoon
+Ryker,Dronet,Perrin,2017-07-02,Jason,Dronet,2253021482,Marisa,Dronet,2256102164,None,Face not allowed,Spring 2026,Flying Squirrels,Afternoon
+Theodore,Herkimer,Jordan,2019-01-17,Sarah,Herkimer`,8018604142,,,,n/a,Allowed,Spring 2026,Flying Squirrels,Afternoon
+Varick,Eastman,,2016-09-23,Melisa,Eastman,7144543541,,,,None,Allowed,Spring 2026,Flying Squirrels,Afternoon
+Zidane,Eastman,,2019-06-11,Melisa,Eastman,7144543541,,,,None,Allowed,Spring 2026,Flying Squirrels,Afternoon
+Callahan,Norris,Spencer Lewis,2017-09-29,Tatum,Norris,8018679492,Ben,Norris,8015545267,N/A,Allowed,Spring 2026,Red Foxes,Afternoon
+Henry,Zemke,Wilder,2016-05-21,Allyssa,Zemke,8016716620,Noah,Zemke,3852273146,Gluten Dairy,Face not allowed,Spring 2026,Red Foxes,Afternoon
+Joseph,Graff,,2017-08-18,Mindy,Graff,8014550875,Russell,Graff,8018675688,N/A,Allowed,Spring 2026,Red Foxes,Afternoon
+June,Burton,,2017-07-20,Jamie,Burton,2083127552,Aaron,Burton,8015988350,n/a,Face not allowed,Spring 2026,Red Foxes,Afternoon
+Maceo,Ramos,,2018-03-06,Alesha,Ramos,6232969074,,,,Na,Allowed,Spring 2026,Red Foxes,Afternoon
